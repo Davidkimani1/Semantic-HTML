@@ -26,3 +26,4 @@ SEMANTIC-HTML Example
   <div class="main">Welcome to my blog</div>
   <div class="footer">© 2025</div>
 </div>
+contact me @ daviidkimanii@gmail.com
