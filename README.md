@@ -1,6 +1,6 @@
 # Semantic-HTML
 Semantic HTML refers to using HTML tags that convey meaning about the structure and purpose of content, such as <header>, <article>, <nav>, and <section>. Unlike generic <div> and <span> elements, semantic tags make content more understandable for both search engines and assistive technologies.
-An example of no. Semantic-HTML <header>
+An example of  Semantic-HTML <header>
   <nav>
     <ul>
       <li><a href="/">Home</a></li>
@@ -20,7 +20,7 @@ An example of no. Semantic-HTML <header>
 <footer>
   <p>© 2025</p>
 </footer>
-SEMANTIC-HTML Example 
+non semantic html 
 <div id="top">
   <div class="menu">Home | About | Contact</div>
   <div class="main">Welcome to my blog</div>
